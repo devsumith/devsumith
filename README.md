@@ -1,10 +1,5 @@
 <h2 align="center"> Hi there 👋, My name is Enes, Welcome to my GitHub Profile<br/> </h2> 
 
-<div align="center">
-    <a href="#"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fa-kozhanov&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile+views&edge_flat=false"/></a>
-    <a href="https://wakatime.com/@c0c837b6-b14f-4d2a-8d1f-d4baccb05c44"><img src="https://wakatime.com/badge/user/c0c837b6-b14f-4d2a-8d1f-d4baccb05c44.svg" alt="Wakatime" /></a>
-</div>
-
 ### 👨‍💻 About me
 
 😉 I'm a **full stack developer** specializing in .NET (C#, ASP.NET MVC, Web API), MS SQL Server, and JavaScript frameworks (
@@ -58,42 +53,3 @@ ConsoleApp) and some experience in **SPA** (React, Angular). I also work with **
     <a href="#"><img alt="GitLab" src="https://img.shields.io/badge/-GitLab-FCA121?style=flat&logo=gitlab"></a>
     <a href="#"><img alt="Jira" src="https://img.shields.io/badge/Jira-%230A0FFF.svg?style=flat&logo=jira&logoColor=white"></a>
 </p>
-
-### 📊 Github stats
-
-<p>
-<a href="https://gitstats.me/a-kozhanov" target="_blank">
-  <img height="180em" alt="Alexander Kozhanov's github stats" src="https://github-readme-stats-eight-theta.vercel.app/api?username=a-kozhanov&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  <img height="180em" alt="Alexander Kozhanov's github stats" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=a-kozhanov&layout=compact&langs_count=8&theme=react"/>
-</a>
-</p>
-
-<details>
-<summary>📈 Recent GitHub Activity</summary>
-
-![Enes Bosnic's GitHub Activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=a-kozhanov&theme=dracula)
-
-</details>
-
-<details>
-<summary>🔥 Streak stats</summary>
-<p>
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=a-kozhanov&date_format=n%2Fj%5B%2FY%5D&theme=react">
-</p>
-</details>
-
-<details>
-<summary>⌛ Wakatime Stats</summary>
-
-[![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=akozhanov&layout=compact&theme=react)](https://wakatime.com/akozhanov)
-
-</details>
-
-<details>
-<summary>📊 Language&nbsp;/&nbsp;Framework stats</summary>
-<a href='https://profile.codersrank.io/user/a-kozhanov/'>
-    <img src='http://cr-skills-chart-widget.azurewebsites.net/api/api?username=a-kozhanov&padding=30'>
-</a>
-
-</details>
-
